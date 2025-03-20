@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CristianBerceBLV  
-- 👀 I’m interested in R visualisations and general statistics  
-- 🌱 I’m currently learning Java  
-- 💞️ I’m looking to collaborate on Java projects  
+- 👀 I’m interested in HTML, R, visualisations of general statistics
+- 🌱 I’m currently learning Java - currently learning and experimenting with ApexCharts and D3.js.
+- 💞️ I’m looking to collaborate on R or Java projects  
 - 📫 How to reach me: Reach out to me on GitHub  
 - 😄 Pronouns: him/his  
 - ⚡ Fun fact: I used to work as a lumberjack as a summer job to make some cash  
